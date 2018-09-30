@@ -1,0 +1,37 @@
+ .App {
+  text-align: center;
+  color: beige;
+  margin-bottom: 45px;
+}
+.sarticle {
+  color: beige;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration-color: bisque;
+}
+.App-header {
+  background-color: rgb(238, 67, 67);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.bordered {
+  border: 1px solid black
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+ } 
+ .jumbotron{
+   background-color: rgb(123, 123, 180);
+   border: 1px slolid rgb(37, 19, 17);
+   height: 100px;
+ }
+ .list-group{
+  border-bottom: 20px;
+}
+
+
